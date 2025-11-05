@@ -19,7 +19,7 @@
 - Cisco — Introduction to Cybersecurity
 - Cisco — Networking Basics
 
-📂 Certificates Repo: 👉 https://github.com/sohaib-cyber/Certificates
+📂 Certificates Repo: 👉 https://github.com/hameksohaibdjabir/Certificates
 
 ---
 
