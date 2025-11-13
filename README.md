@@ -19,6 +19,7 @@
 - Cisco — Introduction to Cybersecurity
 - Cisco — Networking Basics
 - IBM - Cybersecurity Fundamentals
+- Fortinet - NSE1 certificat
 
 📂 Certificates Repo: 👉 https://github.com/hameksohaibdjabir/Certificates
 
